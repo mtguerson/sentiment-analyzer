@@ -13,7 +13,8 @@ By training the sentiment analyzer with specific data, it becomes more adept at 
 
 ### **FEATURES**
 
-![Train-Val Loss and Confusion Matrix](graph1.png)(graph2.png)
+![Train-Val Loss](train-loss.png)
+![Confusion Matrix](confusion-matrix.png)
 
 The implementation of the sentiment analyzer involved the use of BERT multilingual and SNSCRAPE to gather Twitter data for sentiment analysis. BERT, a powerful language model, was fine-tuned with a customized dataset specific to the sentiment classification problem at hand.
 
